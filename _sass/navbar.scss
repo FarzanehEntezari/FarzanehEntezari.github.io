@@ -1,6 +1,6 @@
 .nav-bar {
     width: 100%;
-    background-color: #133667;
+    background-color: #164216;
     font-family: "Poppins", serif;
     font-weight: 700 !important;
     padding-top: 10px;
@@ -33,4 +33,15 @@
     text-align: right;
     padding-top: 0px;
     padding-right: 0px;
+}
+
+.nav-links {
+    text-align: right;
+    // padding: 70px;
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+
+    a {color: rgb(255, 255, 255);}
 }

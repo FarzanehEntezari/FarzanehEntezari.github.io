@@ -16,8 +16,10 @@ body {
 
 .banner {
     padding: 20px 0px 50px 0px;
-    height: 150px;
-    background-color: #1d539f;
+    position: relative;
+    min-height: 100%;
+    background-color: #164216;
+    margin-bottom: 20px;
 }
 
 .banner .logo {
@@ -29,12 +31,12 @@ body {
 
 .banner .title {
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 700;
 }
 
 .page {
-    text-align: left;
+    text-align: justify;
 }
 
 
@@ -105,7 +107,6 @@ hr {
     
     .banner {
         padding: 20px 0px 20px 0px;
-        height: 110px;
     }
 
     .banner .logo {

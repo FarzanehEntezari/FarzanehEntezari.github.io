@@ -1,14 +1,14 @@
-- title: Online Shopping App
-  event: MLH Prep Pod Project
-  date: Fall 2021  - Batch 4.5
-  page-name: project
+- title: Autonomous gait switching for an Amphibious robot
+  # event: McGill University
+  # date: 2020-2022
+  page-name: project-gait-switch
 
-- title: Todo List
-  event: MLH Prep Pod Project
-  date: Fall 2021  - Batch 4.5
-  page-name: project
+- title: Complete Coverage Path Planner
+  # event: Clearpath robotics - OTTO Motors
+  # date: 2021
+  page-name: project-coverage
 
-- title: iOS App
-  event: MLH Prep Pod Project
-  date: Fall 2021  - Batch 4.5
-  page-name: project
+- title: Deep Reinforcement Learning for skeleton-based action recognition
+  # event:
+  # date: 2020
+  page-name: project-RL-skeleton
