@@ -12,3 +12,8 @@
   # event:
   # date: 2020
   page-name: project-RL-skeleton
+
+- title: Deep Learning for video denoising and colorization
+  # event:
+  # date: 2020
+  page-name: project-DL-video-denoise-color
